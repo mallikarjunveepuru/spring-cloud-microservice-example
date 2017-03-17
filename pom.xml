@@ -7,6 +7,7 @@
     <artifactId>spring-cloud-microservice-example-parent</artifactId>
     <version>0.1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
+         
     <modules>
         <module>users-microservice</module>
         <module>discovery-microservice</module>
@@ -114,3 +115,5 @@
         </pluginRepository>
     </pluginRepositories>
 </project>
+
+#################
