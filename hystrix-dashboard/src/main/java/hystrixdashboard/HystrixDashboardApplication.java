@@ -16,6 +16,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 /**
  * Created by sgibb on 7/11/14.
  */
+/*
+Edited to test
+*/
 @Configuration
 @ComponentScan
 @EnableAutoConfiguration
